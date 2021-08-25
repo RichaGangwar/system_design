@@ -162,6 +162,11 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 * [Yammer Engineering](http://eng.yammer.com/blog/)
 * [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 * [Smarkets Blog](https://smarketshq.com/)
+* [Slack Engineering](https://slack.engineering/)
+* [Shopify Engineering](https://shopify.engineering/)
+* [Stripe Blog](https://stripe.com/blog/engineering)
+* [Zoom Developer Blog](https://medium.com/zoom-developer-blog)
+* [Discord Developer Blog](https://blog.discord.com/engineering-posts/home)
 
 ## <a name='tldr'>Low on time ?</a>
 
